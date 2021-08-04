@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Smooth 80's Page
 
-You can use the [editor on GitHub](https://github.com/smooth80stech/smooth80-quickstart/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/smooth80stech/smooth80-quickstart/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://smooth80s.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
